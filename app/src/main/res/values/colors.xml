@@ -16,5 +16,6 @@
     <color name="snow">#71D2FF</color>
     <color name="clear">#FFC107</color>
     <color name="atmosphere">#4E5050</color>
+    <color name="mist">#9E959191</color>
 
 </resources>

@@ -47,7 +47,8 @@ class WeatherViewModel : ViewModel() {
             "Rain" -> R.color.rain
             "Drizzle" -> R.color.drizzle
             "Thunderstorm" -> R.color.thunderstorm
-            else -> R.color.clear
+            "Clear" -> R.color.clear
+            else -> R.color.mist
         }
     }
 }
